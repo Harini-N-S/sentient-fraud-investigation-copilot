@@ -1,0 +1,502 @@
+[
+  {
+    "beneficiary_id": "BEN-00001",
+    "beneficiary_name": "Congo Motors SARL #1",
+    "institution_name": "EquityBCDC",
+    "account_or_phone": "MERCH-RAW-0001",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2025-12-07T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00002",
+    "beneficiary_name": "Alilac Alimentation #2",
+    "institution_name": "Orange_Money",
+    "account_or_phone": "MERCH-RAW-0002",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-03-06T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00003",
+    "beneficiary_name": "Pharmacie Centrale Goma #3",
+    "institution_name": "Vodacom_M_Pesa",
+    "account_or_phone": "MERCH-RAW-0003",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2025-08-20T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00004",
+    "beneficiary_name": "Kipushi Mining Logistics #4",
+    "institution_name": "Vodacom_M_Pesa",
+    "account_or_phone": "MERCH-RAW-0004",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-03-24T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00005",
+    "beneficiary_name": "H\u00f4pital du Cinquantenaire #5",
+    "institution_name": "EquityBCDC",
+    "account_or_phone": "MERCH-RAW-0005",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-05-25T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00006",
+    "beneficiary_name": "TotalEnergies Station Kinshasa #6",
+    "institution_name": "EquityBCDC",
+    "account_or_phone": "MERCH-RAW-0006",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Goma",
+    "is_known_mule": 0,
+    "created_at": "2026-01-16T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00007",
+    "beneficiary_name": "TotalEnergies Station Kinshasa #7",
+    "institution_name": "EquityBCDC",
+    "account_or_phone": "MERCH-RAW-0007",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2025-09-14T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00008",
+    "beneficiary_name": "Congo Motors SARL #8",
+    "institution_name": "Rawbank_Internal",
+    "account_or_phone": "MERCH-RAW-0008",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2025-12-21T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00009",
+    "beneficiary_name": "Kin-Mart Supermarch\u00e9 #9",
+    "institution_name": "Airtel_Money",
+    "account_or_phone": "MERCH-RAW-0009",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Matadi",
+    "is_known_mule": 0,
+    "created_at": "2026-04-11T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00010",
+    "beneficiary_name": "Pharmacie Centrale Goma #10",
+    "institution_name": "Orange_Money",
+    "account_or_phone": "MERCH-RAW-0010",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-03-07T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00011",
+    "beneficiary_name": "SNEL \u00c9lectricit\u00e9 #11",
+    "institution_name": "Airtel_Money",
+    "account_or_phone": "MERCH-RAW-0011",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-08-17T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00012",
+    "beneficiary_name": "H\u00f4pital du Cinquantenaire #12",
+    "institution_name": "Airtel_Money",
+    "account_or_phone": "MERCH-RAW-0012",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-07-22T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00013",
+    "beneficiary_name": "Pharmacie Centrale Goma #13",
+    "institution_name": "Standard_Bank",
+    "account_or_phone": "MERCH-RAW-0013",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-06-02T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00014",
+    "beneficiary_name": "Pharmacie Centrale Goma #14",
+    "institution_name": "Orange_Money",
+    "account_or_phone": "MERCH-RAW-0014",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2025-09-03T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00015",
+    "beneficiary_name": "Pharmacie Centrale Goma #15",
+    "institution_name": "Rawbank_Internal",
+    "account_or_phone": "MERCH-RAW-0015",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-02-15T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00016",
+    "beneficiary_name": "Congo Motors SARL #16",
+    "institution_name": "EquityBCDC",
+    "account_or_phone": "MERCH-RAW-0016",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2025-12-21T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00017",
+    "beneficiary_name": "SNEL \u00c9lectricit\u00e9 #17",
+    "institution_name": "Vodacom_M_Pesa",
+    "account_or_phone": "MERCH-RAW-0017",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-02-12T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00018",
+    "beneficiary_name": "Shoprite Lubumbashi #18",
+    "institution_name": "Orange_Money",
+    "account_or_phone": "MERCH-RAW-0018",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2025-07-31T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00019",
+    "beneficiary_name": "H\u00f4pital du Cinquantenaire #19",
+    "institution_name": "EquityBCDC",
+    "account_or_phone": "MERCH-RAW-0019",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kolwezi",
+    "is_known_mule": 0,
+    "created_at": "2025-07-28T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00020",
+    "beneficiary_name": "SNEL \u00c9lectricit\u00e9 #20",
+    "institution_name": "Vodacom_M_Pesa",
+    "account_or_phone": "MERCH-RAW-0020",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-07-12T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00021",
+    "beneficiary_name": "Kipushi Mining Logistics #21",
+    "institution_name": "EquityBCDC",
+    "account_or_phone": "MERCH-RAW-0021",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-07-14T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00022",
+    "beneficiary_name": "Canal+ RDC #22",
+    "institution_name": "EquityBCDC",
+    "account_or_phone": "MERCH-RAW-0022",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2025-12-07T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00023",
+    "beneficiary_name": "Congo Motors SARL #23",
+    "institution_name": "Vodacom_M_Pesa",
+    "account_or_phone": "MERCH-RAW-0023",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-05-30T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00024",
+    "beneficiary_name": "Shoprite Lubumbashi #24",
+    "institution_name": "Airtel_Money",
+    "account_or_phone": "MERCH-RAW-0024",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Goma",
+    "is_known_mule": 0,
+    "created_at": "2026-06-24T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00025",
+    "beneficiary_name": "SNEL \u00c9lectricit\u00e9 #25",
+    "institution_name": "Standard_Bank",
+    "account_or_phone": "MERCH-RAW-0025",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2025-12-15T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00026",
+    "beneficiary_name": "Shoprite Lubumbashi #26",
+    "institution_name": "Rawbank_Internal",
+    "account_or_phone": "MERCH-RAW-0026",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Goma",
+    "is_known_mule": 0,
+    "created_at": "2026-07-25T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00027",
+    "beneficiary_name": "TotalEnergies Station Kinshasa #27",
+    "institution_name": "Orange_Money",
+    "account_or_phone": "MERCH-RAW-0027",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-01-01T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00028",
+    "beneficiary_name": "Shoprite Lubumbashi #28",
+    "institution_name": "EquityBCDC",
+    "account_or_phone": "MERCH-RAW-0028",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2025-09-12T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00029",
+    "beneficiary_name": "TotalEnergies Station Kinshasa #29",
+    "institution_name": "Airtel_Money",
+    "account_or_phone": "MERCH-RAW-0029",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-04-14T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00030",
+    "beneficiary_name": "SNEL \u00c9lectricit\u00e9 #30",
+    "institution_name": "Rawbank_Internal",
+    "account_or_phone": "MERCH-RAW-0030",
+    "beneficiary_type": "Merchant_Store",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-07-16T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00031",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Kyungu SARL",
+    "institution_name": "Rawbank_Internal",
+    "account_or_phone": "CORP-ACC-0031",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-07-21T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00032",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Mwamba SARL",
+    "institution_name": "EquityBCDC",
+    "account_or_phone": "CORP-ACC-0032",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Bukavu",
+    "is_known_mule": 0,
+    "created_at": "2025-12-24T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00033",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Kabila SARL",
+    "institution_name": "Rawbank_Internal",
+    "account_or_phone": "CORP-ACC-0033",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-06-14T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00034",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Yav SARL",
+    "institution_name": "Standard_Bank",
+    "account_or_phone": "CORP-ACC-0034",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Matadi",
+    "is_known_mule": 0,
+    "created_at": "2026-01-19T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00035",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Kanyinda SARL",
+    "institution_name": "Airtel_Money",
+    "account_or_phone": "CORP-ACC-0035",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Bukavu",
+    "is_known_mule": 0,
+    "created_at": "2026-01-05T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00036",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Muteba SARL",
+    "institution_name": "Orange_Money",
+    "account_or_phone": "CORP-ACC-0036",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2025-09-18T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00037",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Ngoy SARL",
+    "institution_name": "EquityBCDC",
+    "account_or_phone": "CORP-ACC-0037",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-06-23T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00038",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Kanyinda SARL",
+    "institution_name": "Vodacom_M_Pesa",
+    "account_or_phone": "CORP-ACC-0038",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Bukavu",
+    "is_known_mule": 0,
+    "created_at": "2025-11-25T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00039",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Mukendi SARL",
+    "institution_name": "Vodacom_M_Pesa",
+    "account_or_phone": "CORP-ACC-0039",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-08-21T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00040",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Kanku SARL",
+    "institution_name": "Rawbank_Internal",
+    "account_or_phone": "CORP-ACC-0040",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Matadi",
+    "is_known_mule": 0,
+    "created_at": "2025-09-12T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00041",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Kavugho SARL",
+    "institution_name": "Standard_Bank",
+    "account_or_phone": "CORP-ACC-0041",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-02-09T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00042",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Ngoy SARL",
+    "institution_name": "Vodacom_M_Pesa",
+    "account_or_phone": "CORP-ACC-0042",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-06-04T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00043",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Mutombo SARL",
+    "institution_name": "Airtel_Money",
+    "account_or_phone": "CORP-ACC-0043",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-08-06T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00044",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Ilunga SARL",
+    "institution_name": "Standard_Bank",
+    "account_or_phone": "CORP-ACC-0044",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-04-21T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00045",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Tshimanga SARL",
+    "institution_name": "Vodacom_M_Pesa",
+    "account_or_phone": "CORP-ACC-0045",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Kinshasa",
+    "is_known_mule": 0,
+    "created_at": "2026-08-05T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00046",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Kyungu SARL",
+    "institution_name": "Orange_Money",
+    "account_or_phone": "CORP-ACC-0046",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-07-29T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00047",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Kanyinda SARL",
+    "institution_name": "Vodacom_M_Pesa",
+    "account_or_phone": "CORP-ACC-0047",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-01-10T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00048",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Kalombo SARL",
+    "institution_name": "Vodacom_M_Pesa",
+    "account_or_phone": "CORP-ACC-0048",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Lubumbashi",
+    "is_known_mule": 0,
+    "created_at": "2026-06-12T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00049",
+    "beneficiary_name": "Soci\u00e9t\u00e9 Commerciale Mukendi SARL",
+    "institution_name": "EquityBCDC",
+    "account_or_phone": "CORP-ACC-0049",
+    "beneficiary_type": "Corporate_Vendor",
+    "registered_city": "Bukavu",
+    "is_known_mule": 0,
+    "created_at": "2025-08-13T00:00:00"
+  },
+  {
+    "beneficiary_id": "BEN-00050",
+    "beneficiary_name": "Kavira Mule Aggregator",
+    "institution_name": "Vodacom_M_Pesa",
+    "account_or_phone": "+243-81-999-0050",
+    "beneficiary_type": "Mobile_Money_Agent",
+    "registered_city": "Goma",
+    "is_known_mule": 1,
+    "created_at": "2025-10-20T00:00:00"
+  }
+]

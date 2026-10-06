@@ -1,0 +1,502 @@
+[
+  {
+    "account_id": "ACC-00001",
+    "customer_id": "CUS-00001",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 20742068.0,
+    "available_balance": 20742068.0,
+    "account_status": "Active",
+    "created_at": "2024-12-22T00:00:00"
+  },
+  {
+    "account_id": "ACC-00002",
+    "customer_id": "CUS-00001",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 7704.0,
+    "available_balance": 7704.0,
+    "account_status": "Active",
+    "created_at": "2024-12-22T00:00:00"
+  },
+  {
+    "account_id": "ACC-00003",
+    "customer_id": "CUS-00002",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 2590484.0,
+    "available_balance": 2590484.0,
+    "account_status": "Active",
+    "created_at": "2024-12-22T00:00:00"
+  },
+  {
+    "account_id": "ACC-00004",
+    "customer_id": "CUS-00002",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 1196.0,
+    "available_balance": 1196.0,
+    "account_status": "Active",
+    "created_at": "2024-12-22T00:00:00"
+  },
+  {
+    "account_id": "ACC-00005",
+    "customer_id": "CUS-00003",
+    "account_type": "Current_Checking",
+    "currency": "CDF",
+    "current_balance": 32643931.0,
+    "available_balance": 32643931.0,
+    "account_status": "Active",
+    "created_at": "2025-11-25T00:00:00"
+  },
+  {
+    "account_id": "ACC-00006",
+    "customer_id": "CUS-00003",
+    "account_type": "Current_Checking",
+    "currency": "USD",
+    "current_balance": 62640.0,
+    "available_balance": 62640.0,
+    "account_status": "Active",
+    "created_at": "2025-11-25T00:00:00"
+  },
+  {
+    "account_id": "ACC-00007",
+    "customer_id": "CUS-00004",
+    "account_type": "Current_Checking",
+    "currency": "CDF",
+    "current_balance": 29106738.0,
+    "available_balance": 29106738.0,
+    "account_status": "Active",
+    "created_at": "2024-12-31T00:00:00"
+  },
+  {
+    "account_id": "ACC-00008",
+    "customer_id": "CUS-00004",
+    "account_type": "Current_Checking",
+    "currency": "USD",
+    "current_balance": 24150.0,
+    "available_balance": 24150.0,
+    "account_status": "Active",
+    "created_at": "2024-12-31T00:00:00"
+  },
+  {
+    "account_id": "ACC-00009",
+    "customer_id": "CUS-00005",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 33401385.0,
+    "available_balance": 33401385.0,
+    "account_status": "Active",
+    "created_at": "2026-05-18T00:00:00"
+  },
+  {
+    "account_id": "ACC-00010",
+    "customer_id": "CUS-00005",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 11871.0,
+    "available_balance": 11871.0,
+    "account_status": "Active",
+    "created_at": "2026-05-18T00:00:00"
+  },
+  {
+    "account_id": "ACC-00011",
+    "customer_id": "CUS-00006",
+    "account_type": "Current_Checking",
+    "currency": "CDF",
+    "current_balance": 30266964.0,
+    "available_balance": 30266964.0,
+    "account_status": "Active",
+    "created_at": "2026-01-18T00:00:00"
+  },
+  {
+    "account_id": "ACC-00012",
+    "customer_id": "CUS-00006",
+    "account_type": "Current_Checking",
+    "currency": "USD",
+    "current_balance": 19632.0,
+    "available_balance": 19632.0,
+    "account_status": "Active",
+    "created_at": "2026-01-18T00:00:00"
+  },
+  {
+    "account_id": "ACC-00013",
+    "customer_id": "CUS-00007",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 5921757.0,
+    "available_balance": 5921757.0,
+    "account_status": "Active",
+    "created_at": "2026-01-17T00:00:00"
+  },
+  {
+    "account_id": "ACC-00014",
+    "customer_id": "CUS-00007",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 5477.0,
+    "available_balance": 5477.0,
+    "account_status": "Active",
+    "created_at": "2026-01-17T00:00:00"
+  },
+  {
+    "account_id": "ACC-00015",
+    "customer_id": "CUS-00008",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 10454514.0,
+    "available_balance": 10454514.0,
+    "account_status": "Active",
+    "created_at": "2025-08-14T00:00:00"
+  },
+  {
+    "account_id": "ACC-00016",
+    "customer_id": "CUS-00008",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 1276.0,
+    "available_balance": 1276.0,
+    "account_status": "Active",
+    "created_at": "2025-08-14T00:00:00"
+  },
+  {
+    "account_id": "ACC-00017",
+    "customer_id": "CUS-00009",
+    "account_type": "Current_Checking",
+    "currency": "CDF",
+    "current_balance": 8968574.0,
+    "available_balance": 8968574.0,
+    "account_status": "Active",
+    "created_at": "2025-03-21T00:00:00"
+  },
+  {
+    "account_id": "ACC-00018",
+    "customer_id": "CUS-00009",
+    "account_type": "Current_Checking",
+    "currency": "USD",
+    "current_balance": 46046.0,
+    "available_balance": 46046.0,
+    "account_status": "Active",
+    "created_at": "2025-03-21T00:00:00"
+  },
+  {
+    "account_id": "ACC-00019",
+    "customer_id": "CUS-00010",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 22322825.0,
+    "available_balance": 22322825.0,
+    "account_status": "Active",
+    "created_at": "2025-06-28T00:00:00"
+  },
+  {
+    "account_id": "ACC-00020",
+    "customer_id": "CUS-00010",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 6440.0,
+    "available_balance": 6440.0,
+    "account_status": "Active",
+    "created_at": "2025-06-28T00:00:00"
+  },
+  {
+    "account_id": "ACC-00021",
+    "customer_id": "CUS-00011",
+    "account_type": "Current_Checking",
+    "currency": "CDF",
+    "current_balance": 20290252.0,
+    "available_balance": 20290252.0,
+    "account_status": "Active",
+    "created_at": "2024-10-31T00:00:00"
+  },
+  {
+    "account_id": "ACC-00022",
+    "customer_id": "CUS-00011",
+    "account_type": "Current_Checking",
+    "currency": "USD",
+    "current_balance": 69469.0,
+    "available_balance": 69469.0,
+    "account_status": "Active",
+    "created_at": "2024-10-31T00:00:00"
+  },
+  {
+    "account_id": "ACC-00023",
+    "customer_id": "CUS-00012",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 34426958.0,
+    "available_balance": 34426958.0,
+    "account_status": "Active",
+    "created_at": "2026-03-08T00:00:00"
+  },
+  {
+    "account_id": "ACC-00024",
+    "customer_id": "CUS-00012",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 10119.0,
+    "available_balance": 10119.0,
+    "account_status": "Active",
+    "created_at": "2026-03-08T00:00:00"
+  },
+  {
+    "account_id": "ACC-00025",
+    "customer_id": "CUS-00013",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 29370188.0,
+    "available_balance": 29370188.0,
+    "account_status": "Active",
+    "created_at": "2025-10-07T00:00:00"
+  },
+  {
+    "account_id": "ACC-00026",
+    "customer_id": "CUS-00013",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 1824.0,
+    "available_balance": 1824.0,
+    "account_status": "Active",
+    "created_at": "2025-10-07T00:00:00"
+  },
+  {
+    "account_id": "ACC-00027",
+    "customer_id": "CUS-00014",
+    "account_type": "Current_Checking",
+    "currency": "CDF",
+    "current_balance": 8178198.0,
+    "available_balance": 8178198.0,
+    "account_status": "Active",
+    "created_at": "2026-01-28T00:00:00"
+  },
+  {
+    "account_id": "ACC-00028",
+    "customer_id": "CUS-00014",
+    "account_type": "Current_Checking",
+    "currency": "USD",
+    "current_balance": 82264.0,
+    "available_balance": 82264.0,
+    "account_status": "Active",
+    "created_at": "2026-01-28T00:00:00"
+  },
+  {
+    "account_id": "ACC-00029",
+    "customer_id": "CUS-00015",
+    "account_type": "Current_Checking",
+    "currency": "CDF",
+    "current_balance": 218498990.0,
+    "available_balance": 218498990.0,
+    "account_status": "Active",
+    "created_at": "2025-02-18T00:00:00"
+  },
+  {
+    "account_id": "ACC-00030",
+    "customer_id": "CUS-00015",
+    "account_type": "Current_Checking",
+    "currency": "USD",
+    "current_balance": 38183.0,
+    "available_balance": 38183.0,
+    "account_status": "Active",
+    "created_at": "2025-02-18T00:00:00"
+  },
+  {
+    "account_id": "ACC-00031",
+    "customer_id": "CUS-00016",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 29361505.0,
+    "available_balance": 29361505.0,
+    "account_status": "Active",
+    "created_at": "2026-04-24T00:00:00"
+  },
+  {
+    "account_id": "ACC-00032",
+    "customer_id": "CUS-00016",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 7598.0,
+    "available_balance": 7598.0,
+    "account_status": "Active",
+    "created_at": "2026-04-24T00:00:00"
+  },
+  {
+    "account_id": "ACC-00033",
+    "customer_id": "CUS-00017",
+    "account_type": "Agent_Float_Ledger",
+    "currency": "CDF",
+    "current_balance": 86335777.0,
+    "available_balance": 86335777.0,
+    "account_status": "Active",
+    "created_at": "2024-10-20T00:00:00"
+  },
+  {
+    "account_id": "ACC-00034",
+    "customer_id": "CUS-00017",
+    "account_type": "Current_Checking",
+    "currency": "USD",
+    "current_balance": 64239.0,
+    "available_balance": 64239.0,
+    "account_status": "Active",
+    "created_at": "2024-10-20T00:00:00"
+  },
+  {
+    "account_id": "ACC-00035",
+    "customer_id": "CUS-00018",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 23245315.0,
+    "available_balance": 23245315.0,
+    "account_status": "Active",
+    "created_at": "2025-03-28T00:00:00"
+  },
+  {
+    "account_id": "ACC-00036",
+    "customer_id": "CUS-00018",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 13756.0,
+    "available_balance": 13756.0,
+    "account_status": "Active",
+    "created_at": "2025-03-28T00:00:00"
+  },
+  {
+    "account_id": "ACC-00037",
+    "customer_id": "CUS-00019",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 30933796.0,
+    "available_balance": 30933796.0,
+    "account_status": "Active",
+    "created_at": "2026-05-04T00:00:00"
+  },
+  {
+    "account_id": "ACC-00038",
+    "customer_id": "CUS-00019",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 6732.0,
+    "available_balance": 6732.0,
+    "account_status": "Active",
+    "created_at": "2026-05-04T00:00:00"
+  },
+  {
+    "account_id": "ACC-00039",
+    "customer_id": "CUS-00020",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 28416592.0,
+    "available_balance": 28416592.0,
+    "account_status": "Active",
+    "created_at": "2024-11-26T00:00:00"
+  },
+  {
+    "account_id": "ACC-00040",
+    "customer_id": "CUS-00020",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 12153.0,
+    "available_balance": 12153.0,
+    "account_status": "Active",
+    "created_at": "2024-11-26T00:00:00"
+  },
+  {
+    "account_id": "ACC-00041",
+    "customer_id": "CUS-00021",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 6881102.0,
+    "available_balance": 6881102.0,
+    "account_status": "Active",
+    "created_at": "2025-03-12T00:00:00"
+  },
+  {
+    "account_id": "ACC-00042",
+    "customer_id": "CUS-00021",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 5320.0,
+    "available_balance": 5320.0,
+    "account_status": "Active",
+    "created_at": "2025-03-12T00:00:00"
+  },
+  {
+    "account_id": "ACC-00043",
+    "customer_id": "CUS-00022",
+    "account_type": "Current_Checking",
+    "currency": "CDF",
+    "current_balance": 29139647.0,
+    "available_balance": 29139647.0,
+    "account_status": "Active",
+    "created_at": "2026-02-10T00:00:00"
+  },
+  {
+    "account_id": "ACC-00044",
+    "customer_id": "CUS-00022",
+    "account_type": "Current_Checking",
+    "currency": "USD",
+    "current_balance": 50963.0,
+    "available_balance": 50963.0,
+    "account_status": "Active",
+    "created_at": "2026-02-10T00:00:00"
+  },
+  {
+    "account_id": "ACC-00045",
+    "customer_id": "CUS-00023",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 17605364.0,
+    "available_balance": 17605364.0,
+    "account_status": "Active",
+    "created_at": "2024-12-27T00:00:00"
+  },
+  {
+    "account_id": "ACC-00046",
+    "customer_id": "CUS-00023",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 6332.0,
+    "available_balance": 6332.0,
+    "account_status": "Active",
+    "created_at": "2024-12-27T00:00:00"
+  },
+  {
+    "account_id": "ACC-00047",
+    "customer_id": "CUS-00024",
+    "account_type": "IllicoCash_Mobile_Wallet",
+    "currency": "CDF",
+    "current_balance": 10743424.0,
+    "available_balance": 10743424.0,
+    "account_status": "Active",
+    "created_at": "2026-07-01T00:00:00"
+  },
+  {
+    "account_id": "ACC-00048",
+    "customer_id": "CUS-00024",
+    "account_type": "Savings_Deposit",
+    "currency": "USD",
+    "current_balance": 11452.0,
+    "available_balance": 11452.0,
+    "account_status": "Active",
+    "created_at": "2026-07-01T00:00:00"
+  },
+  {
+    "account_id": "ACC-00049",
+    "customer_id": "CUS-00025",
+    "account_type": "Agent_Float_Ledger",
+    "currency": "CDF",
+    "current_balance": 152310317.0,
+    "available_balance": 152310317.0,
+    "account_status": "Active",
+    "created_at": "2025-02-20T00:00:00"
+  },
+  {
+    "account_id": "ACC-00050",
+    "customer_id": "CUS-00025",
+    "account_type": "Current_Checking",
+    "currency": "USD",
+    "current_balance": 18799.0,
+    "available_balance": 18799.0,
+    "account_status": "Active",
+    "created_at": "2025-02-20T00:00:00"
+  }
+]
